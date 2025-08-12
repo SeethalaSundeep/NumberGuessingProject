@@ -16,4 +16,4 @@ while (Guessed_number != Random_number):
     else:
         print("~~~!!!You Guessed it right!!!~~~")
 
-print(f"you have taken '{Guess_count}' guesses.")
+print(f"you have taken '{Guess_count}' number of guesses.")
